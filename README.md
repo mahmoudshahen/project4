@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+
+[![mahmoudshahen](https://circleci.com/<VCS>/<mahmoudshahen>/<project4>.svg?style=svg)]()
+
 
 ## Project Overview
 
